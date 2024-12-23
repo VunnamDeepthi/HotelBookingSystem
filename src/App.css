@@ -1,0 +1,5 @@
+/* Ensure that the content below the navbar is not hidden */
+.room-availability-container,
+.homepage-container {
+  padding-top: 80px;  /* Adjust based on your navbar height */
+}
